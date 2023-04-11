@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9856637312802f872af3",
+    "revision": "3a8affad2b9ace6a7ace",
     "url": "/css/app.90b2cc7a.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/telegram.48ccd960.svg"
   },
   {
-    "revision": "b32baf269e6237a1559019ca12675be1",
+    "revision": "06e1a3ec311303c496af0237a0d035f9",
     "url": "/index.html"
   },
   {
-    "revision": "9856637312802f872af3",
-    "url": "/js/app.1eb0f571.js"
+    "revision": "3a8affad2b9ace6a7ace",
+    "url": "/js/app.de0713a3.js"
   },
   {
     "revision": "6b2d17a00154bbdfe340",
