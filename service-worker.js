@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6da9e7a699f5dc22eb2090df92722ecd.js"
+  "/precache-manifest.bbc02cfa2cb93e912aeb353f82fbcda5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Giraffe"});
